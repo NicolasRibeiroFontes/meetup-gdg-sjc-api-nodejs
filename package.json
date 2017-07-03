@@ -1,0 +1,8 @@
+{
+  "name": "meetup-gdg-nodejs",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "*",
+    "jsonwebtoken": "^7.4.1"
+  }
+}
